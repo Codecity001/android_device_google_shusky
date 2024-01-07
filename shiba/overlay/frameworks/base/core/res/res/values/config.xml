@@ -293,4 +293,10 @@
     <!-- Boolean indicating whether allow sending null to modem to clear the previous initial attach
          data profile -->
     <bool name="allow_clear_initial_attach_data_profile">true</bool>
+
+    <!-- Default apps -->
+    <string name="config_defaultDialer" translatable="false">com.google.android.dialer</string>
+    <string name="config_defaultGallery" translatable="false">com.google.android.apps.photos</string>
+    <string name="config_defaultSms" translatable="false">com.google.android.apps.messaging</string>
+    <string name="config_systemSpeechRecognizer" translatable="false">com.google.android.tts</string>
 </resources>
