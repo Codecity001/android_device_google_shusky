@@ -302,4 +302,10 @@
 
     <!-- The integer index of the selected option in config_udfps_touch_detection_options -->
     <integer name="config_selected_udfps_touch_detection">5</integer>
+    
+    <!-- Default apps -->
+    <string name="config_defaultDialer" translatable="false">com.google.android.dialer</string>
+    <string name="config_defaultGallery" translatable="false">com.google.android.apps.photos</string>
+    <string name="config_defaultSms" translatable="false">com.google.android.apps.messaging</string>
+    <string name="config_systemSpeechRecognizer" translatable="false">com.google.android.tts</string>    
 </resources>
