@@ -17,4 +17,10 @@
 <resources>
     <!-- Whether to show Smooth Display feature in Settings Options -->
     <bool name="config_show_smooth_display">true</bool>
+
+    <!-- Reverse charging -->
+    <bool name="config_show_reverse_charging">true</bool>
+
+    <!-- Whether to show clear calling (P22+) -->
+    <bool name="config_clear_calling_enabled">true</bool>
 </resources>
