@@ -14,6 +14,7 @@ TARGET_PIXEL_STAND_SUPPORTED := true
 EXTRA_UDFPS_ANIMATIONS := true
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SUPPORTS_QUICK_TAP := true
+EVO_BUILD_TYPE := OFFICIAL
 
 # Inherit device configuration
 $(call inherit-product, device/google/shusky/aosp_husky.mk)
